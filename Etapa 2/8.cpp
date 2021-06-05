@@ -1,10 +1,8 @@
 //Universidade do Estado da Bahia
 //Discente: Lázaro Queiroz da Silva
-//Disciplina: Algoritmos
-//Semestre:Complementar
-//Data: 17/11/2020
+//Disciplina: LP1
 //Horário: 19:34hrs
-//Etapa 2 : Questão 6
+//Etapa 2 : Questão 8
 
 #include<stdlib.h>
 #include<stdio.h>
